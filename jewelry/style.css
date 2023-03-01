@@ -1,0 +1,63 @@
+a:link {
+    text-decoration:none;
+    color:black;
+}
+a:link, a:visited {
+    color:black;
+}
+a:hover {
+    text-decoration:underline;
+    color: grey;
+    font-style: italic;
+}
+h2 {
+    color:#917461;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #72a773;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button{
+    background-color: #D1C0A8;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 300px;
+}
+.button1:hover {
+    background-color: #d3c0ac;
+    text-decoration:underline;
+    color: grey;
+    font-style: italic;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2{
+    background-color: #D1C0A8;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align:center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button3:hover {
+    background-color: #d3c0ac;
+    text-decoration:underline;
+    color: grey;
+    font-style: italic;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.tr:hover {background-color: #F6EEE0;}
+
+
